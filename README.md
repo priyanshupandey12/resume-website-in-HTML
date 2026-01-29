@@ -12,7 +12,7 @@ A professional, accessible, and high-performance resume built entirely with sema
 - **Clean Code:** Zero external dependencies—pure HTML and internal CSS for lightning-fast load times.
 
 ## 📸 Screenshots
-![Desktop View](assets/screenshot-desktop.png)
+![Desktop View](E:\HTML\assets)
 
 ## 📂 Project Structure
 ```text
@@ -20,14 +20,26 @@ A professional, accessible, and high-performance resume built entirely with sema
 ├── README.md          # Documentation
 └── assets/            # Screenshots for documentation
 
+```
 ## 💻 Setup & Usage
+
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/priyanshupandey12/resume-website-in-HTML]
+   git clone https://github.com/priyanshupandey12/resume-website-in-HTML.git
+
+```
 
 2. **Navigate to the folder:**
-   ```Bash
-    cd your-repo-name
+```bash
+cd resume-website-in-HTML
+
+```
+
+
+3. **Open the project:**
+Simply open `index.html` in your favorite web browser.
+
+
 
 
 
