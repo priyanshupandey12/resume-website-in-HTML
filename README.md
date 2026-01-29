@@ -1,19 +1,33 @@
-# Semantic HTML Resume
+# Semantic HTML Resume - Priyanshu Pandey
 
-A professional, lightweight resume built using semantic HTML5 to ensure accessibility and SEO friendliness.
+A professional, accessible, and high-performance resume built entirely with semantic HTML5. This project was designed to demonstrate clean structure, SEO best practices, and a "Backend-first" development mindset.
 
 ## 🚀 Live Demo
-[View Live Resume](https://yourusername.github.io/your-repo-name/)
+[View Live Resume](https://resume-website-in-html.onrender.com/)
 
-## 🛠️ Features
-- **Semantic Tags:** Uses `<header>`, `<main>`, `<section>`, and `<article>` for better structure.
-- **Accessibility:** Implements `scope` attributes in tables and `<time>` tags for machine-readable dates.
-- **Responsive:** Basic CSS included to ensure readability on mobile and desktop.
+## 🛠️ Technical Highlights
+- **Semantic Structure:** Utilized `<header>`, `<main>`, `<section>`, and `<article>` for clear document outline.
+- **Data Representation:** Used accessible `<table>` elements with proper `<thead>` and `scope` attributes for Education and Experience data.
+- **SEO & Accessibility:** Implemented machine-readable `<time>` tags for dates and optimized meta tags.
+- **Clean Code:** Zero external dependencies—pure HTML and internal CSS for lightning-fast load times.
 
 ## 📸 Screenshots
 ![Desktop View](assets/screenshot-desktop.png)
 
+## 📂 Project Structure
+```text
+├── index.html         # Main resume file (Entry point)
+├── README.md          # Documentation
+└── assets/            # Screenshots for documentation
+
 ## 💻 Setup & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+   git clone [https://github.com/priyanshupandey12/resume-website-in-HTML]
+
+2. **Navigate to the folder:**
+   ```Bash
+    cd your-repo-name
+
+
+
