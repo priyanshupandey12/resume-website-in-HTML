@@ -21,23 +21,27 @@ A professional, accessible, and high-performance resume built entirely with sema
 └── assets/            # Screenshots for documentation
 
 ```
+Here is the corrected, clean, and standard **Markdown format**:
+
+````
 ## 💻 Setup & Usage
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/priyanshupandey12/resume-website-in-HTML.git
+````
 
-```
+2. **Navigate to the project folder:**
 
-2. **Navigate to the folder:**
-```bash
-cd resume-website-in-HTML
-
-```
-
+   ```bash
+   cd resume-website-in-HTML
+   ```
 
 3. **Open the project:**
-Simply open `index.html` in your favorite web browser.
+   Open `index.html` in your preferred web browser.
+
+
+
 
 
 
