@@ -21,15 +21,15 @@ A professional, accessible, and high-performance resume built entirely with sema
 └── assets/            # Screenshots for documentation
 
 ```
-Here is the corrected, clean, and standard **Markdown format**:
 
-````
-## 💻 Setup & Usage
+
+
+##  Setup & Usage
 
 1. **Clone the repository:**
-   ```bash
+````
    git clone https://github.com/priyanshupandey12/resume-website-in-HTML.git
-```
+````
 
 2. **Navigate to the project folder:**
 
