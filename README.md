@@ -29,7 +29,7 @@ Here is the corrected, clean, and standard **Markdown format**:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/priyanshupandey12/resume-website-in-HTML.git
-````
+```
 
 2. **Navigate to the project folder:**
 
